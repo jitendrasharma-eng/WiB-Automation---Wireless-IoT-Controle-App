@@ -80,3 +80,5 @@ Send text-based commands via the Terminal.
 View real-time sensor values received from connected devices.
 
 Analyze logs of sent and received commands.
+
+[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/Microwave-Motion-Detector-Based-Automatic-Light.git)
