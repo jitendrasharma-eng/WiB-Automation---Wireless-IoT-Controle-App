@@ -81,4 +81,4 @@ View real-time sensor values received from connected devices.
 
 Analyze logs of sent and received commands.
 
-[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/Microwave-Motion-Detector-Based-Automatic-Light.git)
+[Jitendra Sharma] (GitHub: https://github.com/jitendrasharma-eng/WiB-Automation---Wireless-IoT-Controle-App.git)
